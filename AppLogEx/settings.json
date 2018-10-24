@@ -1,0 +1,10 @@
+{
+  "connectionStrings": {
+    "MongoContext": "mongodb://localhost:27017"
+  },
+  "appSettings": {
+    "exceptionFile": "Temp\\Exceptions.json",
+    "logFile": "Temp\\Logs.json",
+    "logDefinitions": "Resources\\LogDefinitions.json"
+  }
+}

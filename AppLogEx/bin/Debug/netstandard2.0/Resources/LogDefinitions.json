@@ -1,0 +1,37 @@
+[
+  {
+    "LogID": "LOG001",
+    "LogType": "Information",
+    "Text": "General Information"
+  },
+  {
+    "LogID": "LOG0002",
+    "LogType": "Information",
+    "Text": "The list is viewed"
+  },
+  {
+    "LogID": "LOG0003",
+    "LogType": "Information",
+    "Text": "The form is viewed"
+  },
+  {
+    "LogID": "LOG0004",
+    "LogType": "Information",
+    "Text": "The form is saved"
+  },
+  {
+    "LogID": "LOG0005",
+    "LogType": "Information",
+    "Text": "The form is updated"
+  },
+  {
+    "LogID": "LOG0006",
+    "LogType": "Information",
+    "Text": "The form is deleted"
+  },
+  {
+    "LogID": "LOG1001",
+    "LogType": "Warning",
+    "Text": "Record not found"
+  }
+]

@@ -1,0 +1,10 @@
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\bin\Debug\netstandard2.0\Resources\LogDefinitions.json
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\bin\Debug\netstandard2.0\settings.json
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\bin\Debug\netstandard2.0\AppLogEx.deps.json
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\bin\Debug\netstandard2.0\AppLogEx.dll
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\bin\Debug\netstandard2.0\AppLogEx.pdb
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\obj\Debug\netstandard2.0\AppLogEx.csproj.CoreCompileInputs.cache
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\obj\Debug\netstandard2.0\AppLogEx.AssemblyInfoInputs.cache
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\obj\Debug\netstandard2.0\AppLogEx.AssemblyInfo.cs
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\obj\Debug\netstandard2.0\AppLogEx.dll
+D:\CanFiles\Visual Studio 2017\repos\AppLogEx\AppLogEx\obj\Debug\netstandard2.0\AppLogEx.pdb
