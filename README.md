@@ -1,5 +1,5 @@
 # AppLogEx
-#### Logging and Exception Handling .Net Standard 2.0 Library for Application level logs and exceptions
+### Logging and Exception Handling .Net Standard 2.0 Library for Application level logs and exceptions
 
 Writes logs and exceptions to MongoDB database if exists.
 If MongoDB database does not exist logs to JSON files.
